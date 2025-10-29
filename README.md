@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning C++<br>🎯 Goals: To be a coder or a teacher.<br>🎲 Fun fact: I learn code for fun. Use code to entertainment.</p>
+<p align="left">📚 I'm currently learning C++<br>🎲 Fun fact: I learn code for fun. Use code to entertainment.</p>
 
 ###
 
